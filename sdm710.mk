@@ -201,7 +201,6 @@ PRODUCT_PACKAGES += \
     libhwc2on1adapter \
     libhwc2onfbadapter \
     libqdMetaData.vendor \
-    libqdMetaData \
     libtinyxml \
     libvulkan \
     hwcomposer.sdm710 \
