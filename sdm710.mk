@@ -200,8 +200,6 @@ PRODUCT_PACKAGES += \
     libdisplayconfig.vendor \
     libhwc2on1adapter \
     libhwc2onfbadapter \
-    libqdMetaData.vendor \
-    libqdMetaData \
     libtinyxml \
     libvulkan \
     hwcomposer.sdm710 \
@@ -214,6 +212,10 @@ PRODUCT_PACKAGES += \
     libgui_vendor \
     libminijail \
     libavservices_minijail
+    
+PRODUCT_PACKAGES += \
+    libqdMetaData.vendor \
+    libqdMetaData 
 
 # DRM
 PRODUCT_PACKAGES += \
