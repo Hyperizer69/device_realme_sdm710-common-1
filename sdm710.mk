@@ -200,7 +200,7 @@ PRODUCT_PACKAGES += \
     libdisplayconfig.vendor \
     libhwc2on1adapter \
     libhwc2onfbadapter \
-    libqdMetaData.vendor \
+    libqdMetaData.system \
     libtinyxml \
     libvulkan \
     hwcomposer.sdm710 \
