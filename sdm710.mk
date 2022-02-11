@@ -201,6 +201,7 @@ PRODUCT_PACKAGES += \
     libhwc2on1adapter \
     libhwc2onfbadapter \
     libqdMetaData.system \
+     libqdMetaData \
     libtinyxml \
     libvulkan \
     hwcomposer.sdm710 \
@@ -208,6 +209,7 @@ PRODUCT_PACKAGES += \
     vendor.display.config@1.0.vendor \
     vendor.display.config@2.0.vendor \
     vendor.display.config@2.0 \
+    vendor.qti.hardware.display.allocator@1.0-service \
     libdisplayconfig.qti \
     libgui_vendor \
     libminijail \
