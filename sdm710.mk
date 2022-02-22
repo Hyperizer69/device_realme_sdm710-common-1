@@ -213,7 +213,6 @@ PRODUCT_PACKAGES += \
     libdisplayconfig.qti \
     libgui_vendor \
     libminijail \
-    libwfdaac_vendor \
     libavservices_minijail
 
 # DRM
